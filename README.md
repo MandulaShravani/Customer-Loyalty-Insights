@@ -32,3 +32,7 @@ CSV Dataset → Customer Loyalty Program data
 To analyze customer loyalty and engagement patterns
 To visualize how loyalty and coupon usage influence sales
 To identify trends that businesses can use for customer retention & growth
+
+**Link for the Dashboard**
+
+https://public.tableau.com/views/CustomerLoyaltyInsights/CustomerLoyaltyInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
